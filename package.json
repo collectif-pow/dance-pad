@@ -1,0 +1,23 @@
+{
+  "name": "dance-pad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collectif-pow/dance-pad.git"
+  },
+  "author": "Xavier Seignard <xavier.seignard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/collectif-pow/dance-pad/issues"
+  },
+  "homepage": "https://github.com/collectif-pow/dance-pad#readme",
+  "dependencies": {
+    "play-sound": "^1.1.2",
+    "serialport": "^6.0.5"
+  }
+}
